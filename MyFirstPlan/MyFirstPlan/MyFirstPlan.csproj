@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\kerbi\Desktop\NAIT Stuff\Github stuff\2021-jan-projects-a03-PeterKerbieNait\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
+</Project>
